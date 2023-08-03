@@ -1,7 +1,7 @@
 # Contributor: aliriza keskin <aliriza.keskin@pardus.org.tr>
 # Maintainer: aliriza keskin <aliriza.keskin@pardus.org.tr>
 pkgname=17g-installer
-pkgver=4.4.1
+pkgver=4.4.2
 pkgrel=0
 pkgdesc="17g installer"
 url="https://gitlab.com/ggggggggggggggggg/17g"
